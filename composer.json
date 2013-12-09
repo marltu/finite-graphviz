@@ -8,7 +8,7 @@
     ],
     "require": {
         "alom/graphviz":    "v1.0.0",
-	"yohang/finite":    "*",
+	"yohang/finite":    "*"
     },
     "autoload": {
         "psr-0": { "Marltu": "src/" }
