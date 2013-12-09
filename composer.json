@@ -1,0 +1,16 @@
+{
+    "name": "marltu/finite-graphviz",
+    "authors": [
+        {
+            "name": "mgrigaitis",
+            "email": "marius.grigaitis@nfq.lt"
+        }
+    ],
+    "require": {
+        "alom/graphviz":    "v1.0.0",
+	"yohang/finite":    "*",
+    },
+    "autoload": {
+        "psr-0": { "Marltu": "src/" }
+    },
+}
